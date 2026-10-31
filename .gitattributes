@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Keep the repository language aligned with the upstream project.
+*.html linguist-language=Jupyter Notebook
+*.css linguist-language=Jupyter Notebook
+*.js linguist-language=Jupyter Notebook
+*.jsx linguist-language=Jupyter Notebook
+*.ts linguist-language=Jupyter Notebook
+*.tsx linguist-language=Jupyter Notebook
+*.mjs linguist-language=Jupyter Notebook
